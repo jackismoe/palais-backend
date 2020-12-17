@@ -1,0 +1,2 @@
+class DineinsController < ApplicationController
+end

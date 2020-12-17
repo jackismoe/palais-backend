@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  dish: MyString
+  ingredients: MyString
+  spice: MyString
+  vegetables: MyString
+
+two:
+  description: MyString
+  dish: MyString
+  ingredients: MyString
+  spice: MyString
+  vegetables: MyString
